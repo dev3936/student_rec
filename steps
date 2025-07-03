@@ -1,0 +1,2 @@
+1. create database in mysql : roll (int),Name (varchar),Section (varchar);
+2. Add JDBC Connector in Tools for mysql connection 
